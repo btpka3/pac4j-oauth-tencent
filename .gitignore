@@ -12,9 +12,9 @@
 hs_err_pid*
 
 
-.settings
+.settings/
 .classpath
 .project
 
-target
-bin
+target/
+bin/
